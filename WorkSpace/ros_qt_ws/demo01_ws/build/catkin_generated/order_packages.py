@@ -1,0 +1,5 @@
+# generated from catkin/cmake/template/order_packages.context.py.in
+source_root_dir = '/home/itcast/1-Github/Ubuntu18_VMware/WorkSpace/ros_qt_ws/demo01_ws/src'
+whitelisted_packages = ''.split(';') if '' != '' else []
+blacklisted_packages = ''.split(';') if '' != '' else []
+underlay_workspaces = '/home/itcast/1-Github/Ubuntu18_VMware/WorkSpace/ros_qt_ws/demo01_ws/devel;/home/itcast/workingSpaceSet/bishe_ws/devel;/home/itcast/workingSpaceSet/xiaolunwen_ws/devel;/home/itcast/workingSpaceSet/motion_ws/devel;/home/itcast/workingSpaceSet/guoyuan_ws/devel;/home/itcast/workingSpaceSet/pibot_ws/devel;/home/itcast/catkin_ws/devel;/opt/ros/melodic'.split(';') if '/home/itcast/1-Github/Ubuntu18_VMware/WorkSpace/ros_qt_ws/demo01_ws/devel;/home/itcast/workingSpaceSet/bishe_ws/devel;/home/itcast/workingSpaceSet/xiaolunwen_ws/devel;/home/itcast/workingSpaceSet/motion_ws/devel;/home/itcast/workingSpaceSet/guoyuan_ws/devel;/home/itcast/workingSpaceSet/pibot_ws/devel;/home/itcast/catkin_ws/devel;/opt/ros/melodic' != '' else []

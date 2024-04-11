@@ -1,0 +1,8 @@
+prefix=/home/itcast/1-Github/Ubuntu18_VMware/WorkSpace/ros_qt_ws/demo02/devel
+
+Name: qnode
+Description: Description of qnode
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

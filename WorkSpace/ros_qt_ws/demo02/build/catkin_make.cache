@@ -1,0 +1,2 @@
+qnode
+-G CodeBlocks - Unix Makefiles -DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/itcast/1-Github/Ubuntu18_VMware/WorkSpace/ros_qt_ws/demo02/devel -DCMAKE_INSTALL_PREFIX=/home/itcast/1-Github/Ubuntu18_VMware/WorkSpace/ros_qt_ws/demo02/install

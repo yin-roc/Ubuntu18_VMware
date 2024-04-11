@@ -1,0 +1,8 @@
+# Hashes of file build rules.
+5d4ff1dcef7c188084a9c8feacb323d8 CMakeFiles/clean_test_results
+5fa14df6a4a32158d7f2119c69855533 demo01/include/demo01/moc_main_window.cxx
+452edde151f615076cb7295bf454fec1 demo01/include/demo01/moc_qnode.cxx
+c332197dd900fde40963a6b220d4dbc0 demo01/include/demo01/moc_serialport.cxx
+e7325de4a515011b019339db5fcc8463 demo01/qrc_images.cxx
+6cbf474f03a9646557103bb23b9e89ef demo01/ui_main_window.h
+09c3b5622efc187ec9b29424baaaee78 demo01/ui_serialport.h
